@@ -40,10 +40,3 @@ This is a simple Tkinter-based Python application that allows users to select a 
 2. After selecting the PDF, the application will extract the text from the first page and display it in a text box.
 3. If there is no text on the page, a warning message will appear.
 
-## Screenshot
-Here is a screenshot of the application interface:
-
-![Application Screenshot](./screenshot.png)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
